@@ -1,0 +1,1 @@
+INSERT INTO booking_arquived SELECT * FROM Booking;
